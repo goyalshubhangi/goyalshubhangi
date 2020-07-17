@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=goyalshubhangi.goyalshubhangi)
 
-![Shubhangi's banner](A.jpg)
+![Shubhangi's banner](https://github.com/goyalshubhangi/goyalshubhangi/blob/master/A.jpg)
 
 ### I make things that *make* a <u>difference.</u>
 
