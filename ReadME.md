@@ -1,6 +1,6 @@
 # ✨Hi, I'm Shubhangi✨
 
-![](https://visitor-badge.glitch.me/badge?page_id=goyalshubhangi.goyalshubhangi)
+![visitors](http://faisals-app.glitch.me/visitors?user=goyalshubhangi)
 
 ![Shubhangi's banner](https://github.com/goyalshubhangi/goyalshubhangi/blob/master/A.jpg)
 
